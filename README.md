@@ -25,7 +25,7 @@ It's a simple yet effective tool for anyone looking to monitor and improve their
 
 <h2>Installation</h2>
 
-- **Clone the Repository:** git clone https://github.com/SonnyGU/Kayne.West.git
+- **Clone the Repository:** git clone https://github.com/SonnyGU/PixelaHabitTracker.git
 -  **Navigate to the Project Directory:** cd habit-tracker
 - **Install the Requests library using pip:** pip install requests
 - **Run the Application:** python main.py
